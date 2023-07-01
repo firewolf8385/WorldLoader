@@ -1,0 +1,8 @@
+name: WorldLoader
+version: '${project.version}'
+main: net.jadedmc.worldloader.WorldLoaderPlugin
+api-version: 1.13
+
+commands:
+  loadworld:
+    description: Load the world
